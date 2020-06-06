@@ -4,4 +4,3 @@
 #### This repository is dedicated to my 100 Days of Machine learning challenge where i planned the road map from SCRATCH ... !
 ##### Follow On Instagram @code.bythebeachh :) 
 
-##### Math for machine learning algorithm
