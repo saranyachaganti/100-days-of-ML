@@ -5,3 +5,4 @@
 ##### Follow On Instagram @code.bythebeachh :) 
 
 Maths for algo will be there
+hyper parameter tuning
