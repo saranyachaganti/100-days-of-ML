@@ -3,5 +3,5 @@
 ### Heyyyy .... !!
 #### This repository is dedicated to my 100 Days of Machine learning challenge where i planned the road map from SCRATCH .. !
 ##### Follow On Instagram @code.bythebeachh :) 
-### do comment project recommendations 
+##### do comment if you have any project recommendations 
 
